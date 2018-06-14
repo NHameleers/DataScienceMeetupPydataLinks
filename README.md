@@ -41,3 +41,10 @@ https://github.com/rragundez/PyDataAmsterdam2018
 
 
 
+## Want to give a notebook a quick try without installing everything locally?
+Go to https://mybinder.org/
+Copy repository link
+Launch
+Wait a bit
+Code!
+
